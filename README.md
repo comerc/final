@@ -1,6 +1,6 @@
 # final
 
-Task Management + Time Tracker + Corporate Chat for developer-centric teams around "flow state" as Open Source Software
+Task Management + Time Tracker + Corporate Chat for developer-centric teams around "flow state" & BDD as Open Source Software
 
 ## Включает
 
